@@ -13,6 +13,7 @@ https://zurthr.itch.io/fruity-froggy
 
 - Colorblind and lack-of-attention support! 🎨 Adds a different color palette for the health bar (including status effects) that support people with color blindness, and/or screen filters for status effects 
 
-
+## How do I download via GitHub?
+Download via the [dist folder](https://github.com/Zurthr/Fruity-Froggy/tree/master/dist). Remember to download the latest version!
 
 Made by Zurthr / Zul in 2023 as a small side project during college, enjoy!
